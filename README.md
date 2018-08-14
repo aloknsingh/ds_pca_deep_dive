@@ -1,5 +1,4 @@
-
-## Deepdive into Principal Component Analysis (PCA).
+# Deep dive into Principal Component Analysis (PCA)
 
 This Code Pattern will guide you through how to use `Scikit Learn` and `Python` in IBM Watson Studio. The goal is to use a Jupyter notebook is to deep dive into Principal Component Analysis using the various dataset that are shipped with 'Scikit Learn'.
 
@@ -123,7 +122,7 @@ There are several ways to execute the code cells in your notebook:
     panel. Here you can schedule your notebook to be executed once at some future
     time, or repeatedly at your specified interval.
 
-### 7. Save and Share
+### 5. Save and Share
 
 #### How to save your work:
 
@@ -149,17 +148,17 @@ options to specify exactly what you want shared from your notebook:
 * `All content, including code`: displays the notebook as is.
 * A variety of `download as` options are also available in the menu.
 
-## Deep Dive into Principal Component Analysis.
+## Deep dive into Principal Component Analysis
 
-### Principal Component Analysis (PCA) Intuition.
+### Principal Component Analysis (PCA) Intuition
 
 Through various real life examples, we give user intuition of PCA.
 
-### PCA Mathemathical Formulation.
+### PCA Mathemathical Formulation
 
 We give user mathemathical foundation and derive the key idea of PCA.
 
-### Principal Component Analysis in Practice.
+### Principal Component Analysis in Practice
  
 Once, We have seen, intuition and mathematical formulation of Principal Component Analysis. We explore PCA through various examples. We will be using Scikit-learn and matplotlib to dive deep into examples.
 
@@ -189,10 +188,10 @@ Awesome job following along! Now go try and take this further or apply it to a d
 
 ## Links
 
-- Watson Studio: https://datascience.ibm.com/docs/content/analyze-data/creating-notebooks.html.
-- Scikit Learn: http://scikit-learn.org/stable/
-- Matplotlib: https://matplotlib.org/
-- SeaBorn: https://seaborn.pydata.org
+* Watson Studio: https://datascience.ibm.com/docs/content/analyze-data/creating-notebooks.html.
+* Scikit Learn: http://scikit-learn.org/stable/
+* Matplotlib: https://matplotlib.org/
+* SeaBorn: https://seaborn.pydata.org
 
 # Learn more
 
