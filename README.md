@@ -18,7 +18,7 @@ In the end, we will summarize our discussion with various pointers to alternativ
 
 1. Log into IBM Watson Studio service.
 2. Start a notebook in Watson Studio.
-4. Deep dive into intuitiona and theory of PCA.
+4. Deep dive into intuition and theory of PCA.
 5. Consider four scenarios with Examples:
 5.1. Dimension Reduction
 5.2. Visualization
@@ -34,7 +34,7 @@ In the end, we will summarize our discussion with various pointers to alternativ
 
 * [Data Science](https://medium.com/ibm-data-science-experience/): Systems and scientific methods to analyze structured and unstructured data in order to extract knowledge and insights.
 * [Python](https://www.python.org/): Python is a programming language that lets you work more quickly and integrate your systems more effectively.
-* [Scikit Learn](http://scikit-learn.org/stable/):  A Python library for providing efficient tools for data mining and machine learning.
+* [Scikit Learn](http://scikit-learn.org/stable/): A Python library for providing efficient tools for data mining and machine learning.
 * [Matplotlib](https://matplotlib.org/): A Python library integrating matplot for visualization.
 
 # Steps
@@ -143,7 +143,7 @@ link that will display a “read-only” version of your notebook. You have seve
 options to specify exactly what you want shared from your notebook:
 
 * `Only text and output`: will remove all code cells from the notebook view.
-* `All content excluding sensitive code cells`:  will remove any code cells
+* `All content excluding sensitive code cells`: will remove any code cells
   that contain a *sensitive* tag. For example, `# @hidden_cell` is used to protect
   your credentials from being shared.
 * `All content, including code`: displays the notebook as is.
@@ -161,7 +161,7 @@ We give user mathemathical foundation and derive the key idea of PCA.
 
 ### Principal Component Analysis in Practice.
  
-Once, We have seen, intuition and mathematical formulation of Principal Component Analysis. We explore PCA through various examples. We will be using Scikit-learn and matplotlib to dive deep into examples.
+Once, we have seen, intuition and mathematical formulation of Principal Component Analysis. We explore PCA through various examples. We will be using Scikit-learn and matplotlib to dive deep into examples.
 
 We will look into following four use cases:
 
